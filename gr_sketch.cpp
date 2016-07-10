@@ -1,4 +1,7 @@
 ﻿// GR-KURUMI PicalicoFree Template V1.02 (Based on V1.06 Template)
+﻿/* Modificated by DIGI-P (C) 2016 */
+/* This AS-IS file is offered with a BSD lite license */
+
 #include <RLduino78.h>
 #define TWI_FREQ 50000L
 #include <Wire.h>
