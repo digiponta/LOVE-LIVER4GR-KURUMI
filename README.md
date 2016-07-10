@@ -3,3 +3,4 @@ Love Liver Stick Light with GR-KURUMI, Serial Full Color LEDs (WS2812B) and  Str
 
 [OVERVIEW] https://makershub.jp/make/792
 
+[VIDEO of its work] https://youtu.be/ldVfnO44krw
